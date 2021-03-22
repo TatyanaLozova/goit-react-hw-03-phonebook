@@ -1,0 +1,15 @@
+body {
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(https://cdn.pixabay.com/photo/2015/01/07/15/51/woman-591576_960_720.jpg);
+}
+
+.App {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+  width: 500px;
+}

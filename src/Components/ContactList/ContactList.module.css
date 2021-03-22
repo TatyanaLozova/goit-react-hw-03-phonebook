@@ -1,0 +1,25 @@
+.contact {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 15px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3),
+    -23px 0 20px -23px rgba(0, 0, 0, 0.6), 23px 0 20px -23px rgba(0, 0, 0, 0.6),
+    inset 0 0 40px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.btn {
+  font-weight: 700;
+  background-color: rgb(140, 194, 238);
+  border-radius: 5px;
+  border-color: rgb(140, 194, 238);
+  color: #ffff;
+}
+
+.btn:hover {
+  background-color: rgb(241, 68, 68);
+}
